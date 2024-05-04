@@ -10,16 +10,17 @@
 		"epg": "http://epg.112114.xyz/?ch={name}&date={date}",
 		"logo": "https://epg.112114.xyz/logo/{name}.png"
 	}],
-	"sites": [{
-			"key": "drpy_js_豆瓣",
-			"name": "🐼┃豆瓣推荐",
-			"type": 3,
-			"api": "./aapi/drpy2.min.js",
-			"searchable": 1,
-			"quickSearch": 0,
-			"changeable": 0,
-			"ext": "./js/douBan.js"
-		},
+	"sites": [
+		//   {
+		// 	"key": "drpy_js_豆瓣",
+		// 	"name": "🐼┃豆瓣推荐",
+		// 	"type": 3,
+		// 	"api": "./aapi/drpy2.min.js",
+		// 	"searchable": 1,
+		// 	"quickSearch": 0,
+		// 	"changeable": 0,
+		// 	"ext": "./js/douBan.js"
+		//   },
 		//   {
 		// 	"key": "bttwo",
 		// 	"name": "✌┃BTtwo┃影视",
@@ -28,15 +29,6 @@
 		// 	"api": "./aapi/drpy2.min.js",
 		// 	"ext": "./js/2BT.js"
 		//   },
-		{
-			"key": "低端",
-			"name": "🛣┃低端┃影视",
-			"type": 3,
-
-			"playerType": "2",
-			"api": "./aapi/drpy2.min.js",
-			"ext": "./js/ddys.js"
-		},
 		{
 			"key": "Libvio",
 			"name": "💐┃立播┃影视",
@@ -53,6 +45,15 @@
 			"searchable": 1,
 			"changeable": 1,
 			"ext": "./json/nmys.json"
+		},
+		{
+			"key": "低端",
+			"name": "🛣┃低端┃影视",
+			"type": 3,
+
+			"playerType": "2",
+			"api": "./aapi/drpy2.min.js",
+			"ext": "./js/ddys.js"
 		},
 		{
 			"key": "csp_xpath_yinfans",
