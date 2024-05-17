@@ -3792,14 +3792,6 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 刀郎-冲动的惩罚西海情歌驼铃等,https://vdse.bdstatic.com//32366fcdc5f95486daaebcc32bec1135.mp4
 闽南语经典老歌,https://vdse.bdstatic.com//4933aab0ea147ecb82b047c44b4ae055.mp4
 
-🔞VIP频道,#genre#
-惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
-潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
-香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
-松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
-松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
-松視2台,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
-
 🔞|经典3级,#genre#
 新金瓶梅一,https://v6.jindangao.com/bb/b13/25/500kb/hls/index.m3u8
 新金瓶梅二,https://v6.jindangao.com/bb/b13/26/500kb/hls/index.m3u8
@@ -4039,6 +4031,14 @@ BEYOND-请将手放开,http://em.21dtv.com/songs/60035529.mkv
 邪斗邪,https://v5.jindangao.com/oo/o8/46/hls/index.m3u8
 催花神龙教,https://v5.jindangao.com/ll/l1/38/hls/index.m3u8
 摄咒邪灵燕降勾魂,https://v5.jindangao.com/oo/o7/1/hls/index.m3u8
+
+🔞VIP频道_2580,#genre#
+惊艳台,https://18.svi-studio.com/live/673960949860/294164781253/1.m3u8
+潘多拉,https://18.svi-studio.com/live/673960949860/294164781253/3.m3u8
+香蕉台,https://18.svi-studio.com/live/673960949860/294164781253/4.m3u8
+松视1台,https://18.svi-studio.com/live/673960949860/294164781253/5.m3u8
+松视2台,https://18.svi-studio.com/live/673960949860/294164781253/6.m3u8
+松視2台,https://z100.cdn2020.com/video/m3u8/2020/07/23/7029e94d/index.m3u8
 
 🎎|18开车_2580,#genre#
 IPX-715,https://siwazywcdn2.com:5278/zhongwenzimu/12C8WeVR/index.m3u8
