@@ -24,6 +24,14 @@
 	// 	"ext": "./js/douBan.js"
 	//   },
 	  {
+		"key": "bttwo",
+		"name": "✌┃BTtwo┃影视",
+		"type": 3,
+		"playerType": "2",
+		"api": "./aapi/drpy2.min.js",
+		"ext": "./js/2BT.js"
+	  },
+	  {
 		"key": "Libvio",
 		"name": "💐┃立播┃影视",
 		"type": 3,
@@ -48,14 +56,6 @@
 		"playerType": "2",
 		"api": "./aapi/drpy2.min.js",
 		"ext": "./js/ddys.js"
-	  },
-	  {
-		"key": "bttwo",
-		"name": "✌┃BTtwo┃影视",
-		"type": 3,
-		"playerType": "2",
-		"api": "./aapi/drpy2.min.js",
-		"ext": "./js/2BT.js"
 	  },
 	  {
 		"key": "csp_xpath_yinfans",

@@ -1,7 +1,7 @@
 // 地址发布页 https://www.bttwo.vip/
 var rule = {
     title:'两个BT',
-    // host:'https://www.bttwoo.com',
+    // host:'https://www.bttwo.org',
     host:'https://www.bttwo.org',
     // url:'/fyclass/page/fypage',
     url:'/fyclassfyfilter',
